@@ -1,0 +1,84 @@
+html,body{
+    height: 100%;
+   
+}
+
+body {
+   height: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding-top: 40px;
+ padding-bottom: 40px;
+background-color: cadetblue !important;
+
+} 
+
+
+.form-signin {
+     width: 100%;
+     max-width: 330px;
+     padding: 15px;
+     z-index: 1;
+     margin: auto;
+   }
+
+
+h2{
+    font-family:sans-serif;
+   
+    }
+p{
+    font-style: oblique;
+}
+    
+.row{
+text-align: center !important;
+}
+
+
+.container-fluid{
+    padding: 7% 15% !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+.btn-twitter{
+    background-color: #55ACEE !important;
+}
+
+.btn-facebook {
+    background-color: #3B5998 !important;
+}
+
+.btn-linkedin {
+    background-color: #007BB6  !important;
+}
+.btn-instagram {
+    background-color: #3F729B  !important;
+}
+.btn-youtube {
+    background-color:#c4302b !important;
+}
+
+.btn-youtube:hover,
+.btn-twitter:hover,
+.btn-instagram:hover,
+.btn-facebook:hover,
+.btn-linkedin:hover {
+    color: #fff !important;
+}
+
+.btn{
+     box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.2) !important; 
+        border-radius: 10px;
+    }
+
+    
+
+.designer{
+    color: #bfbfbf;
+}
+
+
